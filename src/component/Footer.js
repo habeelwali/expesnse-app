@@ -11,7 +11,7 @@ import React from 'react';
                 <a  target="blank" href="https://github.com/habeelwali"> 
                     habeel wali 
                 </a>
-                <img src="logo.png"></img>
+                <img  alt src="logo.png"></img>
             </footer>
         </div>
     )
