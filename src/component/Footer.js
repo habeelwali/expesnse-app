@@ -9,7 +9,7 @@ import Logo from './logo.png';
                 &copy; 2020 Created by :  
             
                 <a  target="blank" href="https://github.com/habeelwali"> 
-                    habeel wali <img src={Logo} ></img>
+                    habeel wali 
                 </a>
             </footer>
         </div>
